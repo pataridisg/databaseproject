@@ -7,5 +7,6 @@ Database Project with Python - Flask is an exercise for me and my students.
 
 Hello from Pat
 
+Hello fron Pakis
 
-Hello Again from Pat
+Hello again
