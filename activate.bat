@@ -1,0 +1,1 @@
+databasevenv\Scripts\activate
