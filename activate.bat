@@ -1,1 +1,0 @@
-dbvenv\Scripts\activate

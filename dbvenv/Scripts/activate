@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Pat\github\databaseproject\dbvenv"
+VIRTUAL_ENV="C:\Users\pat\github\databaseproject\dbvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
